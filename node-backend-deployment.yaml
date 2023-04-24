@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: backendapp
-        image: raguyazhin/node-backend-app:7.0.0
+        image: raguyazhin/node-backend-app:8.0.0
         ports:
         - containerPort: 5000
